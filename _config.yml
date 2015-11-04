@@ -13,9 +13,10 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/clairemorduch" # the subpath of your site, e.g. /blog
+imageurl: "/static/images" # the subpath for images
 url: "http://littleweaver.github.io" # the base hostname & protocol for your site
-twitter_username: clairemorduch
-github_username:  clairemorduch
+# twitter_username: clairemorduch
+# github_username:  clairemorduch
 
 # Build settings
 markdown: kramdown
