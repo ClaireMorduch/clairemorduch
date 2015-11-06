@@ -8,10 +8,11 @@
     {% include header.html %}
 
     <div class="container">
-	    {{ content }}
+	    {% include nav.html %}
+	    <div class="main">
+		    {{ content }}
+	    </div>
     </div>
-
-    <img class="img-responsive" src="{{ site.baseurl }}{{ site.imageurl }}/2.jpg">
 
   </body>
 

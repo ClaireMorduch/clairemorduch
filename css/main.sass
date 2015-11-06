@@ -1,12 +1,47 @@
 ---
 ---
 
-$brand-primary: #2f87f4
+$brand-primary: #5592dd
 
 @import styles
 
 header
-	background-color: $brand-primary
 	color: white
-	a, .nav-link
+	text-align: center
+	padding: 01rem
+	background:
+		color: $brand-primary
+		image: url({{ site.baseurl }}{{ site.imageurl }}/header.jpg)
+		size: cover
+		position: center bottom
+
+.header-box
+	display: block
+	margin: 2rem auto
+	padding: 2rem 1rem
+	+media-breakpoint-up(sm)
+		max-width: 400px
+	+media-breakpoint-up(md)
+		max-width: 50vw
+		padding: 5vw
+		margin: 5vw auto
+	color: white
+	border: 3px solid white
+	&:hover, &:focus, &:active
 		color: white
+		text-decoration: none
+		background-color: rgba(white,0.05)
+
+$title-font-size: 5vw
+
+.site-title
+	text-transform: capitalize
+	+media-breakpoint-up(sm)
+		font-size: $title-font-size
+		line-height: $title-font-size
+.header-nav-link
+	@extend .nav-link
+	margin: 2rem 0.25rem 0 0
+
+.main
+	margin-top: 2rem
