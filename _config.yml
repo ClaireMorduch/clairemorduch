@@ -20,3 +20,26 @@ url: "http://littleweaver.github.io" # the base hostname & protocol for your sit
 
 # Build settings
 markdown: kramdown
+
+# prose
+prose:
+  media: 'media'
+  siteurl: 'http://littleweaver.github.io/clairemorduch'
+  ignore:
+    - /CNAME
+    - /.gitignore
+    - /Gemfile
+    - /Gemfile.lock
+    - /README.md
+    - /robots.txt
+    - /static
+    - /_layouts
+    - /_includes
+    - /_sass
+    - /css
+  metadata:
+  "":
+    - name: 'layout'
+      field:
+        element: 'hidden'
+        value: 'default'
