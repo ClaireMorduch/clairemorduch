@@ -2,7 +2,9 @@
 layout: page
 title: Clients
 permalink: /clients/
+published: true
 ---
+
 
 ### Community Development Finance Institutions
 
@@ -42,7 +44,7 @@ Loan monitoring
 
 ### Other Consultants
 
-##### BWB Solutions:  projects for the
+##### BWB Solutions projects:
 
 **Surdna Foundation**  
 CDFI research and analysis
@@ -55,4 +57,3 @@ Research on issues for Persons with Disabilities in the legal profession
 
 **UN High Commissioner for Refugees**  
 Evaluation
-
