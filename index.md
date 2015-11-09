@@ -6,11 +6,11 @@ Nonprofits have many challenges.  My goal is to help you use your resources to a
 
 Whether you are…
 
-…A social service agency wanting to make sure that you can help your clients both effectively and efficiently – through planning, financial management or taking your organization to the next level.
+<p class="pad-sides">…A social service agency wanting to make sure that you can help your clients both effectively and efficiently – through planning, financial management or taking your organization to the next level.</p>
 
-…A foundation looking to ensure that your funds are used most wisely to support the nonprofits in your community or that your grantees are getting the assistance they need to be most effective.
+<p class="pad-sides">…A foundation looking to ensure that your funds are used most wisely to support the nonprofits in your community or that your grantees are getting the assistance they need to be most effective.</p>
 
-…A CDFI needing assistance in underwriting, portfolio management or monitoring to ensure that your investments are lent wisely and effectively.
+<p class="pad-sides">…A CDFI needing assistance in underwriting, portfolio management or monitoring to ensure that your investments are lent wisely and effectively.</p>
 
-I can help!
+<p class="lead">I can help!</p>
 

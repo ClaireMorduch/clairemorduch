@@ -1,47 +1,82 @@
 ---
 ---
 
-$brand-primary: #5592dd
+$brand-primary: #408add
+$header-background-color: #BDC7D2
+
+$font-family-sans-serif: nimbus-sans, "Helvetica Neue", Helvetica, Arial, sans-serif
+$headings-font-family: nimbus-sans-condensed, $font-family-sans-serif
+$headings-font-weight: 400
+
 
 @import styles
+
+
+a
+	transition: color 0.1s
+
+.pad-sides
+	padding-left: 2rem
+	padding-right: 2rem
+
 
 header
 	color: white
 	text-align: center
-	padding: 01rem
+	padding: 1rem
 	background:
-		color: $brand-primary
-		image: url({{ site.baseurl }}{{ site.imageurl }}/header.jpg)
+		color: $header-background-color
+		image: url({{ site.baseurl }}{{ site.mediaurl }}/header.jpg)
 		size: cover
 		position: center bottom
 
+$title-base-vw: 5vw
+$title-base-rem: 3.75rem
+
 .header-box
 	display: block
-	margin: 2rem auto
+	margin: 0 auto
+	border: 0.2rem solid white
 	padding: 2rem 1rem
-	+media-breakpoint-up(sm)
-		max-width: 400px
-	+media-breakpoint-up(md)
-		max-width: 50vw
-		padding: 5vw
-		margin: 5vw auto
 	color: white
-	border: 3px solid white
+	background-color: rgba(darken($brand-primary,25%),0.05)
+	transition: background-color 0.2s
+	+media-breakpoint-up(sm)
+		max-width: 50vw
+		margin: $title-base-vw auto
+		padding: $title-base-vw
+		border-width: 0.08*$title-base-vw
+	+media-breakpoint-up(xl)
+		max-width: 45rem
+		border-width: 0.08*$title-base-rem
+		padding: $title-base-rem
+		margin: $title-base-rem auto
 	&:hover, &:focus, &:active
 		color: white
 		text-decoration: none
-		background-color: rgba(white,0.05)
-
-$title-font-size: 5vw
+		background-color: transparent
 
 .site-title
-	text-transform: capitalize
+	text-transform: uppercase
+	margin: 0
 	+media-breakpoint-up(sm)
-		font-size: $title-font-size
-		line-height: $title-font-size
+		font-size: $title-base-vw
+		line-height: $title-base-vw
+	+media-breakpoint-up(xl)
+		font-size: $title-base-rem
+		line-height: $title-base-rem
+
 .header-nav-link
 	@extend .nav-link
 	margin: 2rem 0.25rem 0 0
+	font-size: $font-size-h5
+
+
+.container-fluid
+	+media-breakpoint-up(md)
+		max-width: 50vw
+	+media-breakpoint-up(xl)
+		max-width: 45rem
 
 .main
-	margin-top: 2rem
+	margin: 2rem 0

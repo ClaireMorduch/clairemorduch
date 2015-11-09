@@ -6,41 +6,53 @@ permalink: /clients/
 
 ### Community Development Finance Institutions
 
+**The Disability Opportunity Fund**  
+Director of Lending: Underwriting, Portfolio Review
 
-The Disability Opportunity Fund	  Director of Lending: Underwriting, Portfolio Review
+**Cooperative Fund of New England**  
+Strategic Planning
 
-Cooperative Fund of New England 	Strategic Planning
+**Greater New Haven Community Loan Fund**  
+CDFI application review
 
-Greater New Haven Community Loan Fund	CDFI application review
 
-	
 
 ### Nonprofits	
 
-Christian Community Action	Grant writing assistance
+**Christian Community Action**  
+Grant writing assistance
 
-Malta House of Care Clinic 	Strategic Planning
+**Malta House of Care Clinic**  
+Strategic Planning
 
-Open Communities Alliance	Start-up assistance; Evaluation
+**Open Communities Alliance**  
+Start-up assistance; Evaluation
 
- 	
+ 
 
-### Foundations	
+### Foundations
 
-Community Foundation for Greater New Haven 	Grant review
+**Community Foundation for Greater New Haven**  
+Grant review
 
-Kresge Foundation	Loan monitoring
+**Kresge Foundation**  
+Loan monitoring
 
-	
 
-### Other Consultants	
 
-BWB Solutions:  projects for the
+### Other Consultants
 
-* Surdna Foundation  CDFI research and analysis
+##### BWB Solutions:  projects for the
 
-* Low Income Investment Fund  Financial projections, research
+**Surdna Foundation**  
+CDFI research and analysis
 
-* Microsoft   Research on issues for Persons with Disabilities in the legal profession
+**Low Income Investment Fund**  
+Financial projections, research
 
-* UN High Commissioner for Refugees	  Evaluation
+**Microsoft**  
+Research on issues for Persons with Disabilities in the legal profession
+
+**UN High Commissioner for Refugees**  
+Evaluation
+
