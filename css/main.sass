@@ -59,12 +59,19 @@ $title-base-rem: 3.75rem
 .site-title
 	text-transform: uppercase
 	margin: 0
+	line-height: 0.9em
+	margin-top: 0.1em
 	+media-breakpoint-up(sm)
 		font-size: $title-base-vw
 		line-height: $title-base-vw
 	+media-breakpoint-up(xl)
 		font-size: $title-base-rem
 		line-height: $title-base-rem
+	> small
+		display: inline-block
+		font-size: 0.8em
+		line-height: 0.9em
+		margin-top: 0.2em
 
 .header-nav-link
 	@extend .nav-link
