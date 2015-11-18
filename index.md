@@ -17,6 +17,5 @@ Whether you are…
 <p class="pad-sides">…A CDFI needing assistance in underwriting, portfolio management or monitoring to ensure that your investments are lent wisely,</p>
 
 <p class="lead">I can help!</p>
-  
-  
+   
 
