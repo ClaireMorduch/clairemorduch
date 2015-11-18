@@ -20,7 +20,3 @@ Whether you are…
   
   
 
-                                                                ### Claire Morduch
-_Strategic planning and financial analysis to develop more effective organizations,
-which are better able to strengthen families, reduce poverty and improve communities._  
-ClaireMorduch@gmail.com
