@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Representative Clients
+title: Clients
 permalink: /clients/
 published: true
 ---
