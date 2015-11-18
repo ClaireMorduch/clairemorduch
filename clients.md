@@ -8,6 +8,9 @@ published: true
 
 
 
+
+
+
 ## Community Development Finance Institutions
 
 **The Disability Opportunity Fund**  
@@ -18,6 +21,8 @@ Strategic Planning
 
 **Greater New Haven Community Loan Fund**  
 CDFI application review
+
+
 
 
 
@@ -32,7 +37,9 @@ Strategic Planning
 **Open Communities Alliance**  
 Start-up assistance; Evaluation
 
- 
+
+
+
 
 ### Foundations
 
@@ -41,6 +48,8 @@ Grant review
 
 **Kresge Foundation**  
 Loan monitoring
+
+
 
 
 
