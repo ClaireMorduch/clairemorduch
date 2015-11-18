@@ -17,6 +17,7 @@ Whether you are…
 <p class="pad-sides">…A CDFI needing assistance in underwriting, portfolio management or monitoring to ensure that your investments are lent wisely,</p>
 
 <p class="lead">I can help!</p>
+  
+  
 
-
-**Claire Morduch** -- _Strategic planning and financial analysis to develop more effective organizations, which are better able to strengthen families, reduce poverty and improve communities._  ClaireMorduch@gmail.com
+### _Strategic planning and financial analysis to develop more effective organizations, which are better able to strengthen families, reduce poverty and improve communities._ ## Claire Morduch -- ClaireMorduch@gmail.com
