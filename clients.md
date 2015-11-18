@@ -6,7 +6,8 @@ published: true
 ---
 
 
-   
+  
+  
 ## Community Development Finance Institutions
 
 **The Disability Opportunity Fund**  
@@ -17,12 +18,8 @@ Strategic Planning
 
 **Greater New Haven Community Loan Fund**  
 CDFI application review
-
-   
-   
-
-
-
+  
+  
 ### Nonprofits	
 
 **Christian Community Action**  
@@ -33,12 +30,8 @@ Strategic Planning
 
 **Open Communities Alliance**  
 Start-up assistance; Evaluation
-
-
-   
-   
-
-
+  
+  
 ### Foundations
 
 **Community Foundation for Greater New Haven**  
@@ -46,12 +39,8 @@ Grant review
 
 **Kresge Foundation**  
 Loan monitoring
-
-   
-   
-
-
-
+  
+  
 ### Other Consultants
 
 ##### BWB Solutions projects:
