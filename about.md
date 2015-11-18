@@ -7,7 +7,7 @@ published: true
 
 
 
-Nonprofit consultants can play many roles.  Claire’s years of working in different capacities for nonprofits, as an employee, board member, volunteer and consultant,  gives her an ability to:
+Nonprofit consultants can play many roles.  Claire’s years of working in different capacities for nonprofits -- as an employee, board member, volunteer and consultant -- gives her an ability to:
 
 * Bring a specific expertise not available on your staff or board such as the ability to do business or strategic planning and loan underwriting.
 
