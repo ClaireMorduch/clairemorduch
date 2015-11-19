@@ -6,6 +6,8 @@ published: true
 ---
 
 
+
+
   
   
 ## Community Development Finance Institutions
@@ -20,6 +22,7 @@ Strategic Planning
 CDFI application review
   
   
+  
 ### Nonprofits	
 
 **Christian Community Action**  
@@ -32,6 +35,7 @@ Strategic Planning
 Start-up assistance; Evaluation
   
   
+  
 ### Foundations
 
 **Community Foundation for Greater New Haven**  
@@ -39,6 +43,7 @@ Grant review
 
 **Kresge Foundation**  
 Loan monitoring
+  
   
   
 ### Other Consultants
@@ -54,5 +59,3 @@ Financial projections, research
 **Microsoft**  
 Research on issues for Persons with Disabilities in the legal profession
 
-**UN High Commissioner for Refugees**  
-Evaluation
