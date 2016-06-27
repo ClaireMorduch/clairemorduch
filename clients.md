@@ -13,16 +13,16 @@ published: true
 ### Community Development Finance Institutions
 
 **The Disability Opportunity Fund**  
-Director of Lending: Underwriting, Portfolio Review
+Director of Lending: Underwriting, Portfolio review
 
 **Cooperative Fund of New England**  
-Strategic Planning
+Strategic planning
 
 **Greater New Haven Community Loan Fund**  
 CDFI application review
 
 **CDFI Fund**  
-CDFI application review
+Native American CDFI Assistance (NACA) program grant review
   
   
   
@@ -45,7 +45,7 @@ Start-up assistance; Evaluation
 Grant review
 
 **Kresge Foundation**  
-Loan monitoring
+Program-related investment loan monitoring
   
   
   
@@ -54,10 +54,18 @@ Loan monitoring
 ##### BWB Solutions projects:
 
 **Surdna Foundation**  
-CDFI research and analysis
+CDFI research and analysis; Program-related investment loan underwriting and monitoring
 
 **Low Income Investment Fund**  
 Financial projections, research
 
 **Microsoft**  
 Research on issues for Persons with Disabilities in the legal profession
+
+**United Nations High Commission on Refugees**  
+Program evaluation
+
+##### Cadence Consulting:
+
+**Keep the Promise Coalition**  
+Strategic planning and budgeting
