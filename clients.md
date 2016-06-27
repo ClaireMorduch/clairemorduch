@@ -15,16 +15,16 @@ published: true
 **The Disability Opportunity Fund**  
 Director of Lending: Underwriting, Portfolio review
 
+**CDFI Fund**  
+Native American CDFI Assistance (NACA) program grant review
+
 **Cooperative Fund of New England**  
 Strategic planning
 
 **Greater New Haven Community Loan Fund**  
 CDFI application review
 
-**CDFI Fund**  
-Native American CDFI Assistance (NACA) program grant review
-  
-  
+ 
   
 ### Nonprofits	
 
