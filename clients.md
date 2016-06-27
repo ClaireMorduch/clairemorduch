@@ -22,7 +22,7 @@ Strategic Planning
 CDFI application review
 
 **CDFI Fund**  
-CDFI Application Review
+CDFI application review
   
   
   
