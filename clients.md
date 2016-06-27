@@ -28,15 +28,14 @@ CDFI application review
   
 ### Nonprofits	
 
-**Christian Community Action**  
-Grant writing assistance
-
 **Malta House of Care Clinic**  
 Strategic Planning
 
 **Open Communities Alliance**  
 Start-up assistance; Evaluation
   
+**Christian Community Action**  
+Grant writing assistance
   
   
 ### Foundations
