@@ -20,6 +20,9 @@ Strategic Planning
 
 **Greater New Haven Community Loan Fund**  
 CDFI application review
+
+**CDFI Fund**  
+CDFI Application Review
   
   
   
@@ -58,4 +61,3 @@ Financial projections, research
 
 **Microsoft**  
 Research on issues for Persons with Disabilities in the legal profession
-
