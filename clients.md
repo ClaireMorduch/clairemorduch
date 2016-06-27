@@ -36,10 +36,8 @@ Start-up assistance; Evaluation
   
 **Christian Community Action**  
 Grant writing assistance
-  
-
-
-
+ ###
+ 
 ### Foundations
 
 **Community Foundation for Greater New Haven**  
