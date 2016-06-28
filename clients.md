@@ -12,38 +12,38 @@ published: true
   
 ### Community Development Finance Institutions
 
-**The Disability Opportunity Fund**  
+##### The Disability Opportunity Fund
 Director of Lending: Underwriting, Portfolio review
 
-**CDFI Fund**  
+##### CDFI Fund
 Native American CDFI Assistance (NACA) program grant review
 
-**Cooperative Fund of New England**  
+##### Cooperative Fund of New England
 Strategic planning
 
-**Greater New Haven Community Loan Fund**  
+##### Greater New Haven Community Loan Fund
 CDFI application review
 
  
   
 ### Nonprofits	
 
-**Malta House of Care Clinic**  
+##### Malta House of Care Clinic
 Strategic Planning
 
-**Open Communities Alliance**  
+##### Open Communities Alliance
 Start-up assistance; Evaluation
   
-**Christian Community Action**  
+##### Christian Community Action
 Grant writing assistance
 
  
 ### Foundations
 
-**Community Foundation for Greater New Haven**  
+##### Community Foundation for Greater New Haven
 Grant review
 
-**Kresge Foundation**  
+##### Kresge Foundation
 Program-related investment loan monitoring
   
 
@@ -51,21 +51,21 @@ Program-related investment loan monitoring
   
 ### Other Consultants
 
-##### BWB Solutions projects:
+#### BWB Solutions projects:
 
-**Surdna Foundation**  
+##### Surdna Foundation
 CDFI research and analysis; Program-related investment loan underwriting and monitoring
 
-**Low Income Investment Fund**  
+##### Low Income Investment Fund
 Financial projections, research
 
-**Microsoft**  
+##### Microsoft
 Research on issues for Persons with Disabilities in the legal profession
 
-**United Nations High Commission on Refugees**  
+##### United Nations High Commission on Refugees
 Program evaluation
 
-##### Cadence Consulting:
+#### Cadence Consulting:
 
-**Keep the Promise Coalition**  
+##### Keep the Promise Coalition
 Strategic planning and budgeting
