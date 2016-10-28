@@ -72,11 +72,11 @@ Strategic planning and budgeting
 
 ### Volunteering
 
-#### Connecticut Asset Building Collaborative
+##### Connecticut Asset Building Collaborative
 Co-chair; Organziational Development; Website maintenance; Fundraising
 
-#### Community Foundation for Greater New Haven
+##### Community Foundation for Greater New Haven
 Community grant reviewer
 
-#### Women & Family Life Center
+##### Women & Family Life Center
 Capital Campaign Planning 
