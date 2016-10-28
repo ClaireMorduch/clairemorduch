@@ -40,7 +40,7 @@ Grant writing assistance
  
 ### Foundations
 
-##### [Community Foundation for Greater New Haven] (http://www.cfgnh.org)
+##### [Community Foundation for Greater New Haven](http://www.cfgnh.org)
 Grant review
 
 ##### Kresge Foundation
