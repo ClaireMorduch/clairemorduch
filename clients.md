@@ -51,7 +51,7 @@ Program-related investment loan monitoring
   
 ### Other Consultants
 
-#### BWB Solutions projects:
+#### [BWB Solutions](http://www.bwbsolutions.org/) projects:
 
 ##### [Surdna Foundation](http://www.surdna.org)
 CDFI research and analysis; Program-related investment loan underwriting and monitoring
@@ -62,10 +62,10 @@ Financial projections, research
 ##### [Microsoft](http://blogs.microsoft.com/on-the-issues/2015/07/23/the-ada-at-25-disability-rights-and-diversity/#sm.0001me094gi1eesayfh2o6ts6bzdl)
 Research on issues for Persons with Disabilities in the legal profession
 
-##### United Nations High Commission on Refugees
+##### [United Nations High Commission on Refugees](http://www.unhcr.org/)
 Program evaluation
 
-#### Cadence Consulting:
+#### [Cadence](http://www.cadence-consulting.com/) Consulting:
 
 ##### [Keep the Promise Coalition](http://www.ctkeepthepromise.org/)
 Strategic planning and budgeting
