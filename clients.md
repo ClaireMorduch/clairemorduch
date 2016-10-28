@@ -12,13 +12,13 @@ published: true
   
 ### Community Development Finance Institutions
 
-##### [The Disability Opportunity Fund](www.thedof.org)
+##### [The Disability Opportunity Fund](http://www.thedof.org)
 Director of Lending: Underwriting, Portfolio review
 
 ##### CDFI Fund
 Native American CDFI Assistance (NACA) program grant review
 
-##### Cooperative Fund of New England
+##### [Cooperative Fund of New England](http://www.cooperativefund.org)
 Strategic planning
 
 ##### Greater New Haven Community Loan Fund (now Capital For Change)
