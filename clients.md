@@ -21,7 +21,7 @@ Native American CDFI Assistance (NACA) program grant review
 ##### Cooperative Fund of New England
 Strategic planning
 
-##### Greater New Haven Community Loan Fund
+##### Greater New Haven Community Loan Fund (now Capital For Change)
 CDFI application review
 
  
