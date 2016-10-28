@@ -65,7 +65,7 @@ Research on issues for Persons with Disabilities in the legal profession
 ##### [United Nations High Commission on Refugees](http://www.unhcr.org/)
 Program evaluation
 
-#### [Cadence](http://www.cadence-consulting.com/) Consulting:
+#### [Cadence Consulting](http://www.cadence-consulting.com/):
 
 ##### [Keep the Promise Coalition](http://www.ctkeepthepromise.org/)
 Strategic planning and budgeting
