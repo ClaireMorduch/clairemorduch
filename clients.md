@@ -12,7 +12,7 @@ published: true
   
 ### Community Development Finance Institutions
 
-##### The Disability Opportunity Fund
+##### [The Disability Opportunity Fund](www.thedof.org)
 Director of Lending: Underwriting, Portfolio review
 
 ##### CDFI Fund
