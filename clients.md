@@ -22,7 +22,7 @@ Native American CDFI Assistance (NACA) program grant review
 Strategic planning
 
 ##### Greater New Haven Community Loan Fund (now [Capital For Change](http://www.capitalforchange.org))
-CDFI application review
+CDFI Fund application review
 
  
   
@@ -41,10 +41,10 @@ Grant writing assistance
 ### Foundations
 
 ##### [Community Foundation for Greater New Haven](http://www.cfgnh.org)
-Grant review
+Grant review; Technical assistance to grantees
 
 ##### [Kresge Foundation](http://www.kresge.org)
-Program-related investment loan monitoring
+Program-related investment loan underwriting and monitoring 
   
 
 
@@ -63,7 +63,7 @@ Financial projections, research
 Research on issues for Persons with Disabilities in the legal profession
 
 ##### [United Nations High Commission on Refugees](http://www.unhcr.org/)
-Program evaluation
+Program evaluation on Alternatives to Detention model
 
 #### [Cadence Consulting](http://www.cadence-consulting.com/):
 
