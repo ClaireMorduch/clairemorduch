@@ -31,7 +31,7 @@ CDFI application review
 ##### Malta House of Care Clinic
 Strategic Planning
 
-##### Open Communities Alliance
+##### [Open Communities Alliance](http://www.ctoca.org/)
 Start-up assistance; Evaluation
   
 ##### Christian Community Action
