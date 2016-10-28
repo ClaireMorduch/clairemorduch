@@ -19,4 +19,4 @@ Nonprofit consultants can play many roles.  Claire’s years of working in diffe
 
 
 
-For more information, or to schedule a phone call, please contact Claire at [ClaireMorduch@gmail.com](mailto:clairemorduch@gmail.com)
+For more information, or to schedule a phone call, please contact Claire at [ClaireMorduch@gmail.com](mailto:clairemorduch@gmail.com).
