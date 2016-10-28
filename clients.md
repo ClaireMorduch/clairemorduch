@@ -70,7 +70,7 @@ Program evaluation
 ##### Keep the Promise Coalition
 Strategic planning and budgeting
 
-###Volunteering
+### Volunteering
 
 #### Connecticut Asset Building Collaborative
 Co-chair; Organziational Development; Website maintenance; Fundraising
