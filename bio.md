@@ -19,7 +19,7 @@ projections for growth, program research, analysis and evaluation;
 
 * Foundations conducting grant reviews, program research and analysis.  
 
-Claire returned to nonprofit consulting after four and one-half years as Director of Finance and 
+Claire returned to nonprofit consulting in 2014, after four and one-half years as Director of Finance and 
 Administration at Connecticut Voices for Children.  Prior to that she was with BWB Solutions for 
 over fifteen years, most recently as Associate Partner.  When Claire initially turned to consulting 
 after 10 years of management in nonprofit and both traditional and worker-owned for for-profit 
