@@ -40,7 +40,7 @@ Grant writing assistance
  
 ### Foundations
 
-##### Community Foundation for Greater New Haven
+##### [Community Foundation for Greater New Haven] (http://www.cfgnh.org)
 Grant review
 
 ##### Kresge Foundation
@@ -72,7 +72,7 @@ Strategic planning and budgeting
 
 ### Volunteering
 
-##### Connecticut Asset Building Collaborative
+##### [Connecticut Asset Building Collaborative](http://www.ctassetbuilding.org)
 Co-chair; Organziational Development; Website maintenance; Fundraising
 
 ##### Community Foundation for Greater New Haven
