@@ -15,6 +15,9 @@ published: true
 ##### [The Disability Opportunity Fund](http://www.thedof.org)
 Director of Lending: Underwriting, Portfolio review
 
+##### [NeighborWorks America](http://www.neighborworks.org/Training-Services/Organizational-Assessment)
+Organizational Assessment of NeighborWorks members' Lending and Loan Portfolio Management
+
 ##### [CDFI Fund](http://www.cdfifund.gov)
 Native American CDFI Assistance (NACA) program grant review
 
