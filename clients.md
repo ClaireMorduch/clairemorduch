@@ -46,7 +46,7 @@ Grant writing assistance
 ##### [Community Foundation for Greater New Haven](http://www.cfgnh.org)
 Grant review; Technical assistance to grantees
 
-##### [Kresge Foundation](http://www.kresge.org)
+##### [The Kresge Foundation](http://www.kresge.org)
 Program-related investment loan underwriting and monitoring 
   
 
