@@ -47,7 +47,7 @@ Grant writing assistance
 Grant review; Technical assistance to grantees
 
 ##### [The Kresge Foundation](http://www.kresge.org)
-Program-related investment loan underwriting and monitoring 
+Program-related investment loan underwriting, closing and monitoring 
   
 
 
@@ -55,6 +55,9 @@ Program-related investment loan underwriting and monitoring
 ### Other Consultants
 
 #### [BWB Solutions](http://www.bwbsolutions.org/) projects:
+
+##### [Action for Bridgeport Community Development](http://www.abcd.org)
+Demographic and internet research for Needs Assessment
 
 ##### [Surdna Foundation](http://www.surdna.org)
 CDFI research and analysis; Program-related investment loan underwriting and monitoring
