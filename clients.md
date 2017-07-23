@@ -16,7 +16,7 @@ published: true
 Director of Lending: Underwriting, Portfolio review
 
 ##### [NeighborWorks America](http://www.neighborworks.org/Training-Services/Organizational-Assessment)
-Organizational Assessment of NeighborWorks members' Lending and Loan Portfolio Management
+Organizational Assessment of NeighborWorks members' Lending and Loan Portfolio Management, Resource Management and Financial Management
 
 ##### [CDFI Fund](http://www.cdfifund.gov)
 Native American CDFI Assistance (NACA) program grant review
@@ -79,7 +79,7 @@ Strategic planning and budgeting
 ### Volunteering
 
 ##### [Connecticut Asset Building Collaborative](http://www.ctassetbuilding.org)
-Co-chair; Organziational Development; Website maintenance; Fundraising
+Co-chair; Organizational Development; Website maintenance; Fundraising
 
 ##### [Community Foundation for Greater New Haven](http://www.cfgnh.org)
 Community grant reviewer
