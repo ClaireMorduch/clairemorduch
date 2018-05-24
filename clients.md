@@ -31,6 +31,9 @@ CDFI Fund application review
   
 ### Nonprofits	
 
+##### [IRIS](http://www.irisct.org)
+Housing and Donations Operations assistance
+
 ##### [Malta House of Care Clinic](http://www.maltahouseofcare.org)
 Strategic Planning
 
@@ -40,6 +43,7 @@ Start-up assistance; Evaluation
 ##### [Christian Community Action](http://www.ccacaring.org/)
 Grant writing assistance
 
+ 
  
 ### Foundations
 
