@@ -48,7 +48,7 @@ Grant writing assistance
 ### Foundations
 
 ##### [Community Foundation for Greater New Haven](http://www.cfgnh.org)
-Grant review; Technical assistance to grantees
+Mission-related investment due diligence; Grant review; Technical assistance to grantees
 
 ##### [The Kresge Foundation](http://www.kresge.org)
 Program-related investment loan underwriting, closing and monitoring 
@@ -59,6 +59,9 @@ Program-related investment loan underwriting, closing and monitoring
 ### Other Consultants
 
 #### [BWB Solutions](http://www.bwbsolutions.org/) projects:
+
+##### [Library Connection, Inc.](http://www.libraryconnection.info)
+Strategic Planning
 
 ##### [Action for Bridgeport Community Development](http://www.abcd.org)
 Demographic and internet research for Needs Assessment
@@ -79,6 +82,7 @@ Program evaluation on Alternatives to Detention model
 
 ##### [Keep the Promise Coalition](http://www.ctkeepthepromise.org/)
 Strategic planning and budgeting
+
 
 ### Volunteering
 
