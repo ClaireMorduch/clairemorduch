@@ -18,7 +18,7 @@ Nonprofit consultants can play many roles.  Claire’s years of working in diffe
 * Be there as an advisor/coach/sounding board to provide feedback and perspective.
 
 
-# "Many thanks, Claire, for everything... on a personal and professional level you helped me gain a confidence that goes far beyond any dollar amount... thank you for the empowerment."  --Amanda #
+"Many thanks, Claire, for everything... on a personal and professional level you helped me gain a confidence that goes far beyond any dollar amount... thank you for the empowerment."  --Amanda 
 
 
 For more information, or to schedule a phone call, please contact Claire at [ClaireMorduch@gmail.com](mailto:clairemorduch@gmail.com).
