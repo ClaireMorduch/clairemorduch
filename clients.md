@@ -29,6 +29,9 @@ CDFI Fund application review
 
 ##### [Boston Community Loan Fund](http://www.bostoncommunitycapital.org/programs-services/loan-fund)
 Loan Closing process assistance
+
+##### [Housing Development Fund, Inc.](https://hdfconnects.org/)
+Loan underwriting
  
   
 ### Nonprofits	
@@ -67,6 +70,9 @@ Strategic Planning
 
 ##### [Action for Bridgeport Community Development](http://www.abcd.org)
 Demographic and internet research for Needs Assessment
+
+##### [Center for New York City Neighborhoods](https://cnycn.org/)
+Research on financing for affordable housing programs
 
 ##### [Surdna Foundation](http://www.surdna.org)
 CDFI research and analysis; Program-related investment loan underwriting and monitoring
