@@ -53,7 +53,7 @@ Grant writing assistance
 ### Foundations
 
 ##### [Community Foundation for Greater New Haven](http://www.cfgnh.org)
-Mission-related investment due diligence; Grant review; Technical assistance to grantees
+Mission-related investment due diligence and program development; Grant review; Technical assistance to grantees
 
 ##### [The Kresge Foundation](http://www.kresge.org)
 Program-related investment loan underwriting, closing and monitoring 
@@ -68,7 +68,7 @@ Program-related investment loan underwriting, closing and monitoring
 ##### [Library Connection, Inc.](http://www.libraryconnection.info)
 Strategic Planning
 
-##### [Action for Bridgeport Community Development](http://www.abcd.org)
+##### [Action for Bridgeport Community Development](http://www.abcd.org) and [TEAM] (http://www.teaminc.org)
 Demographic and internet research for Needs Assessment
 
 ##### [Center for New York City Neighborhoods](https://cnycn.org/)
