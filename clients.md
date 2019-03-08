@@ -27,7 +27,7 @@ Strategic planning
 ##### Greater New Haven Community Loan Fund (now [Capital For Change](http://www.capitalforchange.org))
 CDFI Fund application review
 
-##### Boston Community Loan Fund (now [BlueHub Capital](https://bluehubcapital.org/programs-services/loan-fund)
+##### Boston Community Loan Fund (now [BlueHub Capital](https://bluehubcapital.org/programs-services/loan-fund))
 Loan Closing process assistance
 
 ##### [Housing Development Fund, Inc.](https://hdfconnects.org/)
