@@ -68,7 +68,7 @@ Program-related investment loan underwriting, closing and monitoring
 ##### [Library Connection, Inc.](http://www.libraryconnection.info)
 Strategic Planning
 
-##### [Action for Bridgeport Community Development](http://www.abcd.org) and [TEAM] (http://www.teaminc.org)
+##### [Action for Bridgeport Community Development](http://www.abcd.org) and [TEAM](http://www.teaminc.org)
 Demographic and internet research for Needs Assessment
 
 ##### [Center for New York City Neighborhoods](https://cnycn.org/)
