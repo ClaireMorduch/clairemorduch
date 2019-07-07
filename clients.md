@@ -13,10 +13,10 @@ published: true
 ### Community Development Finance Institutions
 
 ##### [The Disability Opportunity Fund](http://www.thedof.org)
-Director of Lending: Underwriting, Portfolio review
+Director of Lending: Underwriting, Portfolio review, technical assistance for borrowers
 
 ##### [NeighborWorks America](http://www.neighborworks.org/Training-Services/Organizational-Assessment)
-Organizational Assessment of NeighborWorks members' Lending and Loan Portfolio Management, Resource Management and Financial Management
+Organizational Assessment of NeighborWorks member organization's Lending and Loan Portfolio Management, Resource Management and Financial Management
 
 ##### [CDFI Fund](http://www.cdfifund.gov)
 Native American CDFI Assistance (NACA) program grant review
@@ -51,6 +51,9 @@ Grant writing assistance
  
  
 ### Foundations
+
+##### [Open Society Foundations Economic Justice Program](https://www.opensocietyfoundations.org/who-we-are/programs/economic-justice-program)
+Program-related investment loan underwriting technical assistance
 
 ##### [Community Foundation for Greater New Haven](http://www.cfgnh.org)
 Mission-related investment due diligence and program development; Grant review; Technical assistance to grantees
