@@ -68,6 +68,9 @@ Program-related investment loan underwriting, closing and monitoring
 
 #### [BWB Solutions](http://www.bwbsolutions.org/) projects:
 
+##### [Libraries Online,Inc.](http://www.lioninc.org)
+Financial Planning
+
 ##### [Library Connection, Inc.](http://www.libraryconnection.info)
 Strategic Planning
 
