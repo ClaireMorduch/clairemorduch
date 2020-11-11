@@ -52,16 +52,17 @@ Grant writing assistance
  
 ### Foundations
 
-##### [Open Society Foundations Economic Justice Program](https://www.opensocietyfoundations.org/who-we-are/programs/economic-justice-program)
-Program-related investment loan underwriting technical assistance
+##### [The Kresge Foundation Social Investment Practice](http://www.kresge.org/our-work/social-investment-practice/)
+Social investment loan underwriting, closing and monitoring 
+
+##### [Robert Wood Johnson Foundation](http://www.rwjf.org)
+Impact investment loan portfolio set-up and monitoring
 
 ##### [Community Foundation for Greater New Haven](http://www.cfgnh.org)
 Mission-related investment due diligence and program development; Grant review; Technical assistance to grantees
-
-##### [The Kresge Foundation](http://www.kresge.org)
-Program-related investment loan underwriting, closing and monitoring 
   
-
+##### [Open Society Foundations Economic Justice Program](https://www.opensocietyfoundations.org/who-we-are/programs/economic-justice-program)
+Program-related investment loan underwriting technical assistance
 
   
 ### Other Consultants
