@@ -19,5 +19,6 @@ Whether you are…
 <p class="lead">I can help!</p>
    
 
+Claire Morduch, Nonprofit Consultant
 *Strategic planning and financial analysis to develop more effective organizations,  
 which are better able to strengthen families, reduce poverty and improve communities.*
