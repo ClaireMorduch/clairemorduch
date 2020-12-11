@@ -101,11 +101,15 @@ Strategic planning and budgeting
 
 ### Volunteering
 
+##### [Community Foundation for Greater New Haven](http://www.cfgnh.org)
+Community grant reviewer
+
+##### [Oberlin Student Cooperative Association](http://osca.wilder.oberlin.edu/)
+Financial analysis related to rent negotiations with Oberlin College and planning associated with the OSCAlums group 
+
 ##### [Connecticut Asset Building Collaborative](http://www.ctassetbuilding.org)
 Co-chair; Organizational Development; Website maintenance; Fundraising
 
-##### [Community Foundation for Greater New Haven](http://www.cfgnh.org)
-Community grant reviewer
 
 ##### [Women & Family Life Center](http://www.womenandfamilylife.org)
 Capital Campaign Planning 
