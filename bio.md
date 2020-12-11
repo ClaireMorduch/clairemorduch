@@ -6,7 +6,7 @@ published: true
 ---
 
 
-Claire Morduch brings a wealth of experience consulting to a variety of nonprofit organizations from across a range of sectors.  She uses a combination of process and quantitative skills to collect and distill large amounts of information from a variety of perspectives, and provides a meaningful and useable analysis.   Her goal is to help nonprofits create more effective and efficient organizations that are better able to meet their mission and is as much at home with financial and impact analysis as with issues of planning, organizational culture, leadership and management systems. Claire is particularly attentive to the kinds of information, processes and support that different types of groups need to function effectively.  
+Claire Morduch brings a wealth of experience consulting to a variety of nonprofit organizations from across a range of sectors. She uses a combination of process and quantitative skills to collect and distill large amounts of information from a variety of perspectives, and provides a meaningful and useable analysis. Her goal is to help nonprofits create organizations that are better able to meet their mission.  She does this through work directly with nonprofits as well as by consulting to foundations and community development finance institutions which focus on affordable housing, creating jobs, alleviating injustice and improving lives.  Claire is as much at home with financial and impact analysis as with issues of planning, organizational culture, leadership and management systems.  She is particularly attentive to the kinds of information, processes and support that different types of groups need to function effectively.
 
 Claire works with:
 
