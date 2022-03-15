@@ -14,11 +14,12 @@ published: true
  
 ### Foundations
 
-##### [The Kresge Foundation Social Investment Practice](http://www.kresge.org/our-work/social-investment-practice/)
-Social investment loan underwriting, closing and monitoring 
 
 ##### [Robert Wood Johnson Foundation](http://www.rwjf.org)
-Impact investment loan portfolio set-up and monitoring
+Impact investment portfolio management, underwriting, systems and management support
+
+##### [The Kresge Foundation Social Investment Practice](http://www.kresge.org/our-work/social-investment-practice/)
+Social investment loan underwriting, closing and monitoring 
 
 ##### [Community Foundation for Greater New Haven](http://www.cfgnh.org)
 Mission-related investment due diligence and program development; Grant review; Technical assistance to grantees
@@ -29,11 +30,12 @@ Program-related investment loan underwriting technical assistance
 
 ### Community Development Finance Institutions
 
-##### [The Disability Opportunity Fund](http://www.thedof.org)
-Director of Lending: Underwriting, Portfolio review, technical assistance for borrowers
 
 ##### [NeighborWorks America](http://www.neighborworks.org/Training-Services/Organizational-Assessment)
 Organizational Assessment of NeighborWorks member organization's Lending and Loan Portfolio Management, Resource Management and Financial Management
+
+##### [The Disability Opportunity Fund](http://www.thedof.org)
+Director of Lending: Underwriting, Portfolio review, technical assistance for borrowers
 
 ##### [CDFI Fund](http://www.cdfifund.gov)
 Native American CDFI Assistance (NACA) program grant review
@@ -65,11 +67,13 @@ Start-up assistance; Evaluation
 ##### [Christian Community Action](http://www.ccacaring.org/)
 Grant writing assistance
 
-
  
 ### Other Consultants
 
 #### [BWB Solutions](http://www.bwbsolutions.org/) projects:
+
+##### [Inclusiv](http://www.inclusiv.org)
+Financial modeling for Community Development Credit Unions
 
 ##### [Libraries Online,Inc.](http://www.lioninc.org)
 Financial Planning
@@ -111,7 +115,6 @@ Financial analysis related to rent negotiations with Oberlin College and plannin
 
 ##### [Connecticut Asset Building Collaborative](http://www.ctassetbuilding.org)
 Co-chair; Organizational Development; Website maintenance; Fundraising
-
 
 ##### [Women & Family Life Center](http://www.womenandfamilylife.org)
 Capital Campaign Planning 
