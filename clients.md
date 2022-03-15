@@ -34,6 +34,9 @@ Program-related investment loan underwriting technical assistance
 ##### [NeighborWorks America](http://www.neighborworks.org/Training-Services/Organizational-Assessment)
 Organizational Assessment of NeighborWorks member organization's Lending and Loan Portfolio Management, Resource Management and Financial Management
 
+##### [Living Cities - Blended Catalyst Fund](http://www.livingcities.org)
+Interim Investment Officer, responsible for a portfolio of investments
+
 ##### [The Disability Opportunity Fund](http://www.thedof.org)
 Director of Lending: Underwriting, Portfolio review, technical assistance for borrowers
 
