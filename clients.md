@@ -10,6 +10,23 @@ published: true
 
   
   
+ 
+ 
+### Foundations
+
+##### [The Kresge Foundation Social Investment Practice](http://www.kresge.org/our-work/social-investment-practice/)
+Social investment loan underwriting, closing and monitoring 
+
+##### [Robert Wood Johnson Foundation](http://www.rwjf.org)
+Impact investment loan portfolio set-up and monitoring
+
+##### [Community Foundation for Greater New Haven](http://www.cfgnh.org)
+Mission-related investment due diligence and program development; Grant review; Technical assistance to grantees
+  
+##### [Open Society Foundations Economic Justice Program](https://www.opensocietyfoundations.org/who-we-are/programs/economic-justice-program)
+Program-related investment loan underwriting technical assistance
+
+
 ### Community Development Finance Institutions
 
 ##### [The Disability Opportunity Fund](http://www.thedof.org)
@@ -48,23 +65,8 @@ Start-up assistance; Evaluation
 ##### [Christian Community Action](http://www.ccacaring.org/)
 Grant writing assistance
 
+
  
- 
-### Foundations
-
-##### [The Kresge Foundation Social Investment Practice](http://www.kresge.org/our-work/social-investment-practice/)
-Social investment loan underwriting, closing and monitoring 
-
-##### [Robert Wood Johnson Foundation](http://www.rwjf.org)
-Impact investment loan portfolio set-up and monitoring
-
-##### [Community Foundation for Greater New Haven](http://www.cfgnh.org)
-Mission-related investment due diligence and program development; Grant review; Technical assistance to grantees
-  
-##### [Open Society Foundations Economic Justice Program](https://www.opensocietyfoundations.org/who-we-are/programs/economic-justice-program)
-Program-related investment loan underwriting technical assistance
-
-  
 ### Other Consultants
 
 #### [BWB Solutions](http://www.bwbsolutions.org/) projects:
